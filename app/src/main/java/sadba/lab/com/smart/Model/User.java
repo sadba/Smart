@@ -1,6 +1,6 @@
 package sadba.lab.com.smart.Model;
 
-public class User {
+public class User{
 
     String name, email, service, code_structure, profil, id_profil, ien, structure, token, code;
 

@@ -43,4 +43,6 @@ dependencies {
 
 
     implementation 'com.github.d-max:spots-dialog:0.7@aar'
+
+    implementation 'com.github.ganfra:material-spinner:2.0.0'
 }
